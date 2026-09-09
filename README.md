@@ -6,6 +6,7 @@ This course was held at:
 - Winter Semester 2023/24, [Leibniz University Hannover](https://www.uni-hannover.de)
 - Winter Semester 2024/25, [Leibniz University Hannover](https://www.uni-hannover.de)
 - Winter Semester 2025/26, [Leibniz University Hannover](https://www.uni-hannover.de)
+- Winter Semester 2026/27, [Leibniz University Hannover](https://www.uni-hannover.de)
 
 Happy coding! 👩‍💻👨‍💻
 
