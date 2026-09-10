@@ -29,7 +29,7 @@ Note: The exercise versions will be uploaded according to the current status of 
 You can simply [clone](https://git-scm.com/docs/git-clone) the repository over HTTP via the command line:
 
 ```shell
-git clone https://github.com/voges/amlg.git
+git clone https://github.com/tnt-LUH/amlg.git
 ```
 
 > [Git](https://en.wikipedia.org/wiki/Git) is probably already installed on every Linux distribution.
