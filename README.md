@@ -42,13 +42,12 @@ We recommend using [Visual Studio Code](https://code.visualstudio.com) and the p
 ### Online
 
 We recommend using the [GWDG Jupyter Cloud](https://jupyter-cloud.gwdg.de).
-Here, in addition to the terminal, you can use the graphical user interface to clone the repository.
+Here, in addition to the terminal, you can use the graphical user interface to clone the repository. 
+Alternatively, you can use any other online Jupyter server, such as [Google Colab](https://colab.research.google.com).
 
 ### Step-by-step instructions(Online and Locally)
 For step-by-step instructions for both recommended environments, see the
 [student setup guide](docs/setup_guide.md).
-
-Alternatively, you can use any other online Jupyter server, such as [Google Colab](https://colab.research.google.com).
 
 ## Data Availability
 
