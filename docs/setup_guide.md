@@ -1,4 +1,4 @@
-# AMLG student setup guide
+# Student setup guide
 
 Choose **one** of the following environments:
 
