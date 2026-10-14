@@ -1,4 +1,4 @@
-# PyTorch packages to be installed from the PyTorch package index. Note the we are using
+# PyTorch packages to be installed from the PyTorch package index. Note that we are using
 # the CPU-only version for the devcontainer.
 
 --index-url https://download.pytorch.org/whl/cpu
