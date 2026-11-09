@@ -4,7 +4,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"GitHub.copilot",
+				"anthropic.claude-code",
 				"ms-python.python",
 				"charliermarsh.ruff",
 				"ms-toolsai.jupyter",
